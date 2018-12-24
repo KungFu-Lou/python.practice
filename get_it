@@ -1,0 +1,7 @@
+def get_it(num):
+    if num>=2:
+        return ('It worked!')
+    else:
+        return ('That wont work!')
+
+print get_it(3)
